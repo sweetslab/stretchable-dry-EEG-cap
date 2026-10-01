@@ -6,6 +6,8 @@
 > **⚠️ DATA AND CODE AVAILABILITY NOTICE**
 > This repository accompanies a submitted academic manuscript. The dataset and Python processing scripts, and hardware design files are currently under embargo during the peer-review process. **All files will be made publicly available in this repository immediately upon the paper's acceptance.**
 
+<img width="1275" height="1233" alt="Graphical_Abstract" src="https://github.com/user-attachments/assets/17f4d6a7-2a4e-4136-99a6-2c1192faecc0" />
+
 ## 📖 About the Project
 Traditional EEG devices are often rigid and bulky, limiting their utility for long-term measurements or sensitive subjects like children. This repository contains the data and code supporting our proposed solution: an industrially viable, stretchable, and clutter-free EEG cap powered by flexible dry Ag/AgCl electrodes. 
 
